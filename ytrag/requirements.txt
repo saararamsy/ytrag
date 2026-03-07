@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+sentence-transformers
+# faiss-cpu
+chromadb
+langchain-openai
+python-dotenv
+numpy==1.26.4
+faiss-cpu==1.8.0.post1
+
+# python3 -m pip install numpy==1.26.4
+# pip install faiss-cpu==1.8.0.post1
